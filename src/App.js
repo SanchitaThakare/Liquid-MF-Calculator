@@ -66,11 +66,12 @@ export default class App extends Component {
   }
   render() {
     const { updatedSchemes, switchChecked, unitsTxt, selectNavValue, amountTxt, selectedScheme } = this.state
+    
     return (
-
+<React.Fragment>
+  <div className='backgroundcal '>
       <div className="container">
-        <div className="subContainer">
-
+        <div className="subContainer ">
           <div className="heading pt-5 pb-4">
             <h2 className="">Units Calculator</h2>
 
@@ -163,7 +164,8 @@ export default class App extends Component {
           </div>
         </div>
       </div>
-
+      </div>
+</React.Fragment>
     )
   }
 }
