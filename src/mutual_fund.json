@@ -1,0 +1,183 @@
+[
+    {
+     "ID": 1,
+     "name": "Aditya Birla Sun Life Mutual Fund"
+    },
+    {
+     "ID": 2,
+     "name": "Axis Mutual Fund"
+    },
+    {
+     "ID": 3,
+     "name": "Bajaj Finserv Mutual Fund"
+    },
+    {
+     "ID": 4,
+     "name": "Bandhan Mutual Fund"
+    },
+    {
+     "ID": 5,
+     "name": "Baroda BNP Paribas Mutual Fund"
+    },
+    {
+     "ID": 6,
+     "name": "Canara Robeco Mutual Fund"
+    },
+    {
+     "ID": 7,
+     "name": "DSP Mutual Fund"
+    },
+    {
+     "ID": 8,
+     "name": "Edelweiss Mutual Fund"
+    },
+    {
+     "ID": 9,
+     "name": "Franklin Templeton Mutual Fund"
+    },
+    {
+     "ID": 10,
+     "name": "HDFC Mutual Fund"
+    },
+    {
+     "ID": 11,
+     "name": "HSBC Mutual Fund"
+    },
+    {
+     "ID": 12,
+     "name": "ICICI Prudential Mutual Fund"
+    },
+    {
+     "ID": 13,
+     "name": "Invesco Mutual Fund"
+    },
+    {
+     "ID": 14,
+     "name": "ITI Mutual Fund"
+    },
+    {
+     "ID": 15,
+     "name": "Kotak Mahindra Mutual Fund"
+    },
+    {
+     "ID": 16,
+     "name": "LIC Mutual Fund"
+    },
+    {
+     "ID": 17,
+     "name": "Mirae Asset Mutual Fund"
+    },
+    {
+     "ID": 18,
+     "name": "Nippon India Mutual Fund"
+    },
+    {
+     "ID": 19,
+     "name": "SBI Mutual Fund"
+    },
+    {
+     "ID": 20,
+     "name": "Sundaram Mutual Fund"
+    },
+    {
+     "ID": 21,
+     "name": "Tata Mutual Fund"
+    },
+    {
+     "ID": 22,
+     "name": "Trust Mutual Fund"
+    },
+    {
+     "ID": 23,
+     "name": "UTI Mutual Fund"
+    },
+    {
+     "ID": 24,
+     "name": "Union Mutual Fund"
+    },
+    {
+     "ID": 25,
+     "name": "PGIM India Mutual Fund"
+    },
+    {
+     "ID": 26,
+     "name": "360 ONE Mutual Fund (Formerly Known as IIFL Mutual Fund)"
+    },
+    {
+     "ID": 27,
+     "name": "JM Financial Mutual Fund"
+    },
+    {
+     "ID": 28,
+     "name": "Mahindra Manulife Mutual Fund"
+    },
+    {
+     "ID": 29,
+     "name": "Quantum Mutual Fund"
+    },
+    {
+     "ID": 30,
+     "name": "Bank of India Mutual Fund"
+    },
+    {
+     "ID": 31,
+     "name": "Motilal Oswal Mutual Fund"
+    },
+    {
+     "ID": 32,
+     "name": "Navi Mutual Fund"
+    },
+    {
+     "ID": 33,
+     "name": "PPFAS Mutual Fund"
+    },
+    {
+     "ID": 34,
+     "name": "quant Mutual Fund"
+    },
+    {
+     "ID": 35,
+     "name": "WhiteOak Capital Mutual Fund"
+    },
+    {
+     "ID": 36,
+     "name": "Groww Mutual Fund"
+    },
+    {
+     "ID": 37,
+     "name": "Helios Mutual Fund"
+    },
+    {
+     "ID": 38,
+     "name": "NJ Mutual Fund"
+    },
+    {
+     "ID": 39,
+     "name": "Samco Mutual Fund"
+    },
+    {
+     "ID": 40,
+     "name": "Shriram Mutual Fund"
+    },
+   
+    {
+     "ID": 41,
+     "name": "Zerodha Mutual Fund"
+    },
+    {
+     "ID": 42,
+     "name": "Taurus Mutual Fund"
+    },
+    {
+     "ID": 43,
+     "name": "IIFCL Mutual Fund (IDF)"
+    },
+    {
+     "ID": 44,
+     "name": "IL&FS Mutual Fund (IDF)"
+    },
+    {
+     "ID": 45,
+     "name": "Reliance Mutual Fund"
+    }
+   ]

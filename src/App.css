@@ -1,0 +1,244 @@
+.App {
+  text-align: center;
+  background-color: #6bffde;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.container{
+  display: flex;
+  padding:20px;
+  justify-content: center;
+  color: #222222 !important;
+  position: relative;
+
+}
+.calculate-section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; 
+  padding-top: 7px;
+
+
+}
+.submit-btn {
+    
+  border-radius: 15px;
+  width: 35%;
+  font-size: 17px;
+  
+}
+
+.subContainer{
+  background-color: #6bffde;
+  /* top: 0%; */
+  /* bottom: 0%; */
+  position: absolute;
+  margin: 30px;
+  padding: 10px 25px;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+  max-width: 500px !important;
+  width: 100%;
+}
+.mainLabel {
+  color: #222222;
+  align-self: center;
+  font-size: 2em;
+  font-weight: 700;
+}
+
+.dropdown{
+  color: #222222;
+  border-style: none;
+  background-color: transparent;
+  border-bottom: 1px solid #222222;
+  margin-top: 30px;
+  padding: 5px 0px;
+  font-size: 1em;
+  width: 100%;
+}
+
+.inputBg{
+  color: #222222;
+  width: 100%;
+  text-align: left;
+  margin-top: 10px;
+}
+
+.inputBg input{
+  border-style: none;
+  background-color: transparent;
+  width: 100%;
+  color: #222222;
+padding: 5px 5px;
+font-size: 1em;
+  border-bottom: 1px solid #222222;
+}
+
+.btnContainer{
+  background-color: #222222;
+  border-radius: 5px;
+  color: white;
+  /* padding: 5px 30px 5px 30px; */
+  margin-top: -26px;
+  font-size: 1.1em;
+  font-weight: 500;
+  height: 34px;
+}
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 50px;
+  height: 28px;
+}
+
+.switch input { 
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 20px;
+  width: 20px;
+  left: 5px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #222222;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #222222;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(20px);
+  -ms-transform: translateX(20px);
+  transform: translateX(20px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.currentvalue {
+  
+  
+    padding-top: 4px;
+    /* padding-left: 131px; */
+    font-size: 17px;
+}
+
+
+.currentvalue .inputvalue{
+  font-weight: 700;
+  background-color: unset;
+  color: unset;
+  border: none;
+}
+@media only screen and (min-width:577px) and (max-width:768px) {
+  
+.subContainer{
+
+  width: 80%;
+}
+}
+/* @media (min-width:992px)  {
+  
+.subContainer{
+
+  width: 80%;
+}
+} */
+@media (max-width:768px) {
+  .btnContainer{
+      width: 50%;
+
+  }
+  
+.subContainer{
+
+  width: 70%;
+}
+}
+
+.backgroundcal {
+
+  /* height: 100%;
+  width: 100%; */
+  /* width: 70%; */
+  
+  min-height: 100vh;
+  
+  
+  align-items: center;
+  justify-content: center;
+  /* font-size: calc(10px + 2vmin); */
+  color: white;
+  /* background-image: url("./mutuakfund2.jpg"); */
+  background-color: #222222;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* background-size: 100% 100%; */
+  background-size: cover;
+}
